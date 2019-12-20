@@ -1,0 +1,39 @@
+body {
+  background-color: #e394c8;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+h1{
+	font-size: 70px;
+	color: #fff;
+}
+
+h2{
+	font-size: 30px;
+	color: #e8bee3;
+}
+
+button {
+      outline: none;
+      border: none;
+      margin: 18px 0;
+      padding: 20px 40px;
+      background: #d2afe3;
+      font-family: 'Pacifico', cursive;
+      color: #282627;
+      letter-spacing: 2px;
+      font-weight: 800;
+      text-transform: uppercase;
+	    text-decoration: none;
+}
+
+button:hover{
+  background: #e8bee3;
+}
+
+p{
+	color: #fff;
+	text-decoration: none;
+	font-size: 10px;
+}
